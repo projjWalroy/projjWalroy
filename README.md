@@ -2,6 +2,7 @@
 👨‍💻 I'm Projjwal, currently in my final year of engineering.<br>🚀 i'm looking for internship and job opportunities.<br>🔭 I’m currently working on various projects related MERN stack and ML. <br>🌱 I’m currently learning MERN stack.<br>❓ Ask me about anything related to MERN stack and related technologies.<br>⚡ Fun fact: I use tabs over spaces.
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/projjwal23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/projjwal-roy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Projjwal23) 
 
