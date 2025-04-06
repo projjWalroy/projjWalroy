@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm Projjwal, currently in my final year of engineering.<br>🚀 i'm looking for internship and job opportunities.<br>🔭 I’m currently working on various projects related MERN stack and ML. <br>🌱 I’m currently learning MERN stack.<br>❓ Ask me about anything related to MERN stack and related technologies.<br>⚡ Fun fact: I use tabs over spaces.
+👨‍💻 I'm Projjwal, working as a Java Backend developer.<br>🚀 I'm learning and exploring new technologies.<br>🔭 I’m currently building various scalable microservices. <br>🌱 I’m currently learning Go.<br>❓ Ask me about anything related to Java, Spring Boot, Microservices and related technologies.<br>⚡ Fun fact: I use tabs over spaces.
 
 
 
